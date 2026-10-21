@@ -1,0 +1,4 @@
+Student Registration Feature
+1. Enter student name
+2. Enter roll number
+3. Register student
